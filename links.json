@@ -1,4 +1,5 @@
 [
-  {"titolo": "Primo video", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"},
-  {"titolo": "Secondo video", "url": "https://www.youtube.com/embed/9bZkp7q19f0"}
+  {"titolo": "Big Buck Bunny", "url": "https://www.w3schools.com/html/mov_bbb.mp4"},
+  {"titolo": "Video di test breve", "url": "https://download.samplelib.com/mp4/sample-5s.mp4"},
+  {"titolo": "Flower", "url": "https://www.w3schools.com/html/movie.mp4"}
 ]
